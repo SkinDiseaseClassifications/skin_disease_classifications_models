@@ -3,6 +3,11 @@
 
 This repository contains the training process and experiments of models used for classification.
 
+## Dataset
+This research utilizes the **Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0)** released by Ali et al. (2023). The dataset consists of **6 classes**, which include five skin disease classes: **chickenpox, cowpox, HFMD, measles,** and **monkeypox**, as well as a **healthy** class. The dataset can be accessed [here](https://www.kaggle.com/datasets/joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20). This dataset has received endorsement from professional dermatologists and obtained approval from appropriate regulatory authorities.
+
+
+
 ## Experiments
 A summary of the feature extractor and classifier experiment results can be found in the tables below:
 
